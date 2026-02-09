@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#1e1e1e"/>
+  <rect x="50" y="30" width="700" height="390" rx="8" fill="#2d2d2d"/>
+  <rect x="50" y="30" width="700" height="50" rx="8" fill="#3c3c3c"/>
+  <circle cx="90" cy="55" r="10" fill="#ff5f56"/>
+  <circle cx="120" cy="55" r="10" fill="#ffbd2e"/>
+  <circle cx="150" cy="55" r="10" fill="#27c93f"/>
+  <text x="400" y="55" text-anchor="middle" fill="#fff" font-size="16" font-family="Arial">AionUi - AI工具统一管理平台</text>
+  <rect x="80" y="110" width="200" height="30" rx="4" fill="#007acc"/>
+  <text x="180" y="130" text-anchor="middle" fill="#fff" font-size="14" font-family="Arial">Claude Code</text>
+  <rect x="300" y="110" width="200" height="30" rx="4" fill="#4285f4"/>
+  <text x="400" y="130" text-anchor="middle" fill="#fff" font-size="14" font-family="Arial">Gemini CLI</text>
+  <rect x="520" y="110" width="200" height="30" rx="4" fill="#34a853"/>
+  <text x="620" y="130" text-anchor="middle" fill="#fff" font-size="14" font-family="Arial">Qwen Code</text>
+  <rect x="80" y="170" width="640" height="200" rx="4" fill="#252526"/>
+  <text x="400" y="280" text-anchor="middle" fill="#888" font-size="20" font-family="Arial">统一管理 · 本地运行 · 隐私安全</text>
+</svg>
