@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#1a1a2e"/>
+  <rect x="50" y="30" width="700" height="390" rx="12" fill="#16213e"/>
+  <rect x="50" y="30" width="700" height="70" rx="12" fill="#0f3460"/>
+  <text x="400" y="75" text-anchor="middle" fill="#fff" font-size="24" font-family="Arial" font-weight="bold">Skill-From-Masters - 站在巨人的肩膀上</text>
+  <rect x="80" y="130" width="200" height="80" rx="8" fill="#e94560"/>
+  <text x="180" y="165" text-anchor="middle" fill="#fff" font-size="16" font-family="Arial" font-weight="bold">3层搜索</text>
+  <text x="180" y="190" text-anchor="middle" fill="#fff" font-size="12" font-family="Arial">本地+Web+原始资料</text>
+  <rect x="300" y="130" width="200" height="80" rx="8" fill="#533483"/>
+  <text x="400" y="165" text-anchor="middle" fill="#fff" font-size="16" font-family="Arial" font-weight="bold">黄金示例</text>
+  <text x="400" y="190" text-anchor="middle" fill="#fff" font-size="12" font-family="Arial">识别质量标准</text>
+  <rect x="520" y="130" width="200" height="80" rx="8" fill="#0f3460"/>
+  <text x="620" y="165" text-anchor="middle" fill="#fff" font-size="16" font-family="Arial" font-weight="bold">反模式识别</text>
+  <text x="620" y="190" text-anchor="middle" fill="#fff" font-size="12" font-family="Arial">避免常见错误</text>
+  <rect x="80" y="240" width="640" height="150" rx="8" fill="#1a1a2e"/>
+  <text x="400" y="290" text-anchor="middle" fill="#e94560" font-size="36" font-family="Arial">📚</text>
+  <text x="400" y="330" text-anchor="middle" fill="#888" font-size="16" font-family="Arial">15+领域专家方法论</text>
+  <text x="400" y="360" text-anchor="middle" fill="#888" font-size="14" font-family="Arial">写作 · 产品 · 销售 · 谈判 · 工程 · 领导力</text>
+</svg>
