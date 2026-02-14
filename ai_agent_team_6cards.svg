@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.95" />
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0.95" />
+    </linearGradient>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="800" height="400" fill="url(#bg)"/>
+
+  <!-- 标题区 -->
+  <text x="400" y="50" font-family="Arial Black, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">
+    程序员月薪5万，1个人干完10个人的活
+  </text>
+
+  <!-- 副言说明 -->
+  <text x="400" y="95" font-family="Microsoft YaHei, sans-serif" font-size="16" fill="white" text-anchor="middle" opacity="0.9">
+    老板震惊了，让竞品分析
+  </text>
+  
+  <!-- 6个AI Agent卡片 -->
+  <!-- 1. Personal AI Infrastructure -->
+  <g transform="translate(50, 140)">
+    <rect x="0" y="0" width="220" height="70" rx="8" fill="white" opacity="0.95"/>
+    <text x="10" y="18" font-family="Microsoft YaHei" font-size="14" font-weight="bold" fill="#667eea">1. Personal AI Infrastructure</text>
+    <text x="10" y="36" font-family="Microsoft YaHei" font-size="11" fill="#333">⭐ 7,904 | 📈 +588</text>
+    <text x="10" y="52" font-family="Microsoft YaHei" font-size="10" fill="#666">3秒找到半年前的资料</text>
+  </g>
+
+  <!-- 2. Chrome DevTools -->
+  <g transform="translate(50, 220)">
+    <rect x="0" y="0" width="220" height="70" rx="8" fill="white" opacity="0.95"/>
+    <text x="10" y="18" font-family="Microsoft YaHei" font-size="14" font-weight="bold" fill="#667eea">2. Chrome DevTools</text>
+    <text x="10" y="36" font-family="Microsoft YaHei" font-size="11" fill="#333">⭐ 24,621 | 📈 +357</text>
+    <text x="10" y="52" font-family="Microsoft YaHei" font-size="10" fill="#666">给AI装上眼睛</text>
+  </g>
+
+  <!-- 3. AI Engineering Hub -->
+  <g transform="translate(50, 330)">
+    <rect x="0" y="0" width="220" height="70" rx="8" fill="white" opacity="0.95"/>
+    <text x="10" y="18" font-family="Microsoft YaHei" font-size="14" font-weight="bold" fill="#667eea">3. AI Engineering Hub</text>
+    <text x="10" y="36" font-family="Microsoft YaHei" font-size="11" fill="#333">⭐ 29,085 | 📈 +386</text>
+    <text x="10" y="52" font-family="Microsoft YaHei" font-size="10" fill="#666">手把手教你做项目</text>
+  </g>
+
+  <!-- 4. gh-aw -->
+  <g transform="translate(530, 140)">
+    <rect x="0" y="0" width="220" height="70" rx="8" fill="white" opacity="0.95"/>
+    <text x="10" y="18" font-family="Microsoft YaHei" font-size="14" font-weight="bold" fill="#667eea">4. gh-aw</text>
+    <text x="10" y="36" font-family="Microsoft YaHei" font-size="11" fill="#333">⭐ 2,143 | 📈 +188</text>
+    <text x="10" y="52" font-family="Microsoft YaHei" font-size="10" fill="#666">GitHub官方AI工作流</text>
+  </g>
+
+  <!-- 5. crush -->
+  <g transform="translate(530, 220)">
+    <rect x="0" y="0" width="220" height="70" rx="8" fill="white" opacity="0.95"/>
+    <text x="10" y="18" font-family="Microsoft YaHei" font-size="14" font-weight="bold" fill="#667eea">5. crush</text>
+    <text x="10" y="36" font-family="Microsoft YaHei" font-size="11" fill="#333">⭐ 19,834 | 📈 +74</text>
+    <text x="10" y="52" font-family="Microsoft YaHei" font-size="10" fill="#666">用中文写代码</text>
+  </g>
+
+  <!-- 6. aios-core -->
+  <g transform="translate(50, 360)">
+    <rect x="0" y="0" width="220" height="70" rx="8" fill="white" opacity="0.95"/>
+    <text x="10" y="18" font-family="Microsoft YaHei" font-size="14" font-weight="bold" fill="#667eea">6. aios-core</text>
+    <text x="10" y="36" font-family="Microsoft YaHei" font-size="11" fill="#333">⭐ 350 | 📈 +105</text>
+    <text x="10" y="52" font-family="Microsoft YaHei" font-size="10" fill="#666">想法到产品一天搞定</text>
+  </g>
+
+  <!-- 对比文字 -->
+  <g transform="translate(50, 610)">
+    <text x="10" y="15" font-family="Microsoft YaHei" font-size="12" font-weight="bold" fill="white">传统模式</text>
+    <text x="10" y="35" font-family="Microsoft YaHei" font-size="12" font-weight="bold" fill="white">vs</text>
+    <text x="10" y="55" font-family="Microsoft YaHei" font-size="12" font-weight="bold" fill="#ffe600">AI团队</text>
+  </g>
+
+  <!-- 箭头 -->
+  <path d="M 400 160 L 400 280" stroke="white" stroke-width="3" fill="none" opacity="0.5"/>
+  <polygon points="400,160 390,155 400,280" fill="white" opacity="0.5"/>
+
+  <!-- 底部说明 -->
+  <text x="400" y="330" font-family="Microsoft YaHei" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    普通人也能拥有一个AI团队
+  </text>
+  <text x="400" y="360" font-family="Microsoft YaHei" font-size="14" fill="white" text-anchor="middle" opacity="0.9">
+    这6个AI Agent，都是你的免费员工
+  </text>
+  <text x="400" y="385" font-family="Microsoft YaHei" font-size="12" fill="#ffeb3b" text-anchor="middle" opacity="0.8">
+    3个月后，这些工具会成为基本技能
+  </text>
+</svg>
